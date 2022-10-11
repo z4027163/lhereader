@@ -21,9 +21,9 @@ setup(
     description='A python module to read LHE files.',
     long_description=LONG_DESCRIPTION,
     long_description_content_type='text/markdown',
-    url='https://github.com/AndreasAlbert/lhereader',
-    author='Andreas Albert',
-    author_email='andreas.albert@cern.ch',
+    url='https://github.com/z4027163/lhereader',
+    author='Zhangqier Wang',
+    author_email='wangz@cern.ch',
     classifiers=[
     ],
     keywords='lhe madgraph parser reader reading parsing',
