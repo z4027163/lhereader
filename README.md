@@ -3,7 +3,7 @@
 
 A Python module to read LHE files. Originally by [diptaparna](https://github.com/diptaparna/lhereader), significantly rewritten by me. No dependency on ROOT, requires python version >= 3.6.
 
-Set up command
+Set up command (works on lxplus)
 python3 -m pip install dataclasses --user
 python3 -m pip install lhereader --user
 
